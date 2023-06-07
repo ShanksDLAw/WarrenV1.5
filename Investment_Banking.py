@@ -59,7 +59,7 @@ agent_executor = create_vectorstore_agent(
     toolkit=toolkit,
     verbose=True
 )
-st.title("Symply Finance V2.5")
+st.title("Warren V1.5A")
 st.write("This version allows you to ask questions based on installed annual reports")
 st.write("This version will use the 2022 annual report of Goldman Sachs")
 
